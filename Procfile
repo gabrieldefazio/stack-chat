@@ -1,4 +1,4 @@
 npm i
 npm run seed
-webpack
+npm dev
 npm start
